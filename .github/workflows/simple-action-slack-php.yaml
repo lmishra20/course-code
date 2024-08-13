@@ -1,4 +1,4 @@
-name: Simple Action
+name: Simple Action slack php
 on: [push]
 
 jobs:
